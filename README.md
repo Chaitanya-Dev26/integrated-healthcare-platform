@@ -1,6 +1,6 @@
 # Integrated Healthcare Platform
 
-This project was developed for a hackathon to streamline outpatient care by integrating essential healthcare services into a single platform. Built with **HTML, CSS, and JavaScript**, it enhances healthcare accessibility and efficiency.
+This project was developed for a hackathon to streamline outpatient care by integrating essential healthcare services into a single platform. Built with **TypeScript and JavaScript**, it enhances healthcare accessibility and efficiency.
 
 ## Features
 ✅ Doctor search & reviews  
@@ -11,8 +11,9 @@ This project was developed for a hackathon to streamline outpatient care by inte
 ✅ Chat support for follow-ups  
 
 ## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript  
-
+- **Frontend:** Javascript,TypeScript
+- **Backend:** JavaScript (Node.js), TypeScript
+- **Tools & Libraries:** React
 ## Installation
 1. Clone the repository:
    ```sh
